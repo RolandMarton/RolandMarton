@@ -48,6 +48,6 @@ Here are a few of my projects that I'm proud of:
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/roland-marton-632681216/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88943189/230103789-5738134e-fc46-49cc-8839-af769d6d1ce9.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/roland-marton-632681216/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88943189/230103789-5738134e-fc46-49cc-8839-af769d6d1ce9.svg" alt="" height="30" width="40" /></a>
 </p>
 
