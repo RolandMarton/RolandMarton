@@ -44,7 +44,10 @@ Here are a few of my projects that I'm proud of:
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolandMarton&&hide_progress=true&hide=php&theme=tokyonight" alt="Top Langs">
 
-<h3 align="left">Connect with me:</h3>
+### Thanks for checking out my profile! 👨‍💻
+
+<h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/roland-marton-632681216/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88943189/230103789-5738134e-fc46-49cc-8839-af769d6d1ce9.svg" alt="" height="30" width="40" /></a>
 </p>
+
