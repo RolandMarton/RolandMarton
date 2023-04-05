@@ -16,7 +16,7 @@ I'm a passionate web developer who loves to explore new technologies and create 
 - Backend: Python, Java, Spring, Node.js, Express, PHP, Javascript, Typescript
 - Database: PostgreSQL, MySQL, MongoDB, Firebase DB  
 - DevOps: Linux, Windows, AWS, Jira, Confluence
-- Testing: Jasmine, Karma, Mochito, Unittest, Jest, Cypress
+- Testing: Jasmine, Karma, Mockito, Unittest, Jest, Cypress
 - Design: Figma, Adobe Photoshop
 
 <br>
