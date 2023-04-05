@@ -12,7 +12,7 @@ I'm a passionate web developer who loves to explore new technologies and create 
 
 ### 🚀 My Skills
 
-- Frontend: React, Angular, Vue, Sass, TailwindCss, Bootstrap, Three.js
+- Frontend: React, Angular, Vue, Sass, TailwindCss, Bootstrap, Three.js, Wordpress
 - Backend: Python, Java, Spring, Node.js, Express, PHP, Javascript, Typescript
 - Database: PostgreSQL, MySQL, MongoDB, Firebase DB  
 - DevOps: Linux, Windows, AWS, Jira, Confluence
