@@ -1,10 +1,8 @@
-<div align="center">
- <img src="https://user-images.githubusercontent.com/88943189/230102175-908dbc73-214f-4bfb-9a5a-07b773288b67.png"></img> 
-</div>
+<h1 align="center">Check out my portfolio by clicking on the image!</h1>
+
+[![Image Alt Text](https://user-images.githubusercontent.com/88943189/231744795-c9c524e4-f062-4e7c-ad70-f9061aaeb8e3.png)](https://roland-3dportfolio.netlify.app/)
 
 <br>
-
-I'm a passionate web developer who loves to explore new technologies and create innovative solutions. 
 
 <br>
 
