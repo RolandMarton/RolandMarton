@@ -1,5 +1,5 @@
 <h1 align="center">Check out my portfolio by clicking on the image!</h1>
-<p> <b>Note:</b> On Android it will be working perfectly on Firefox, but not on Chrome. On every other devices Iphone, Mac, Linux, Windows will be working correctly. Currently working on the optimalization. Thank you for your patience!</p>
+<p> <b>Note:</b> On Android, it will work perfectly on Firefox, but not on Chrome. On every other device iPhone, Mac, Linux, and Windows will be working correctly. Currently working on the optimization. Thank you for your patience!</p>
 
 [![Image Alt Text](https://user-images.githubusercontent.com/88943189/231744795-c9c524e4-f062-4e7c-ad70-f9061aaeb8e3.png)](https://roland-3dportfolio.netlify.app/)
 
