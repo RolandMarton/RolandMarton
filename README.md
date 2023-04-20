@@ -35,11 +35,15 @@ Here are a few of my projects that I'm proud of:
 - [vue-monster-slayer](https://github.com/RolandMarton/vue-monster-slayer)
 - [el-proyecte-grande-sprint-5-java-Doni002](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-5-java-Doni002) :star:
 - [roguelike-game-python-RolandMarton](https://github.com/CodecoolGlobal/roguelike-game-python-RolandMarton) :star:
+- [freestyle-javascript-game-javascript-Vargha90](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Vargha90) :star:
 
 :star: for the extra cool projects
 
-This was one of my favourite team project:
-- https://drive.google.com/file/d/1dJb8CjnIdBdz1rT-c56CO74DLIf7WvIs/view
+<br>
+
+These were one of my favourite team projects:
+- python-Rogue-like game: https://drive.google.com/file/d/1dJb8CjnIdBdz1rT-c56CO74DLIf7WvIs/view
+- javascript-Snake: https://drive.google.com/file/d/1qDnXxWxFRpudUgqfChLnWrlpaCVQQoh_/view
 
 #
 
