@@ -42,8 +42,8 @@ Here are a few of my projects that I'm proud of:
 <br>
 
 These were one of my favourite team projects:
-- python-Rogue-like game: https://drive.google.com/file/d/1dJb8CjnIdBdz1rT-c56CO74DLIf7WvIs/view
-- javascript-Snake: https://drive.google.com/file/d/1qDnXxWxFRpudUgqfChLnWrlpaCVQQoh_/view
+- (VIDEO) python-Rogue-like game: https://drive.google.com/file/d/1dJb8CjnIdBdz1rT-c56CO74DLIf7WvIs/view
+- (VIDEO) javascript-Snake: https://drive.google.com/file/d/1qDnXxWxFRpudUgqfChLnWrlpaCVQQoh_/view
 
 #
 
