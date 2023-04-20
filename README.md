@@ -11,7 +11,7 @@
 
 ### 🚀 My Skills
 
-- Frontend: React, Angular, Vue, Sass, TailwindCss, Bootstrap, Three.js, Wordpress
+- Frontend: React, Angular, AngularJS, Vue, Sass, TailwindCss, Bootstrap, Three.js, Wordpress
 - Backend: Python, Java, Spring, Node.js, Express, PHP, Javascript, Typescript
 - Database: PostgreSQL, MySQL, MongoDB, Firebase DB  
 - DevOps: Linux, Windows, AWS, Jira, Confluence
@@ -34,8 +34,12 @@ Here are a few of my projects that I'm proud of:
 - [angular-weather-app](https://github.com/RolandMarton/angular-weather-app)
 - [vue-monster-slayer](https://github.com/RolandMarton/vue-monster-slayer)
 - [el-proyecte-grande-sprint-5-java-Doni002](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-5-java-Doni002) :star:
+- [roguelike-game-python-RolandMarton](https://github.com/CodecoolGlobal/roguelike-game-python-RolandMarton) :star:
 
 :star: for the extra cool projects
+
+This was one of my favourite team project:
+- https://drive.google.com/file/d/1dJb8CjnIdBdz1rT-c56CO74DLIf7WvIs/view
 
 #
 
