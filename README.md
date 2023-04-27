@@ -13,6 +13,7 @@
 
 - Frontend: React, Angular, AngularJS, Vue, Sass, TailwindCss, Bootstrap, Three.js, Wordpress
 - Backend: Python, Java, Spring, Node.js, Express, PHP, Javascript, Typescript
+- Mobile: Flutter
 - Database: PostgreSQL, MySQL, MongoDB, Firebase DB  
 - DevOps: Linux, Windows, AWS, Jira, Confluence
 - Testing: Jasmine, Karma, Mockito, Unittest, Jest, Cypress
