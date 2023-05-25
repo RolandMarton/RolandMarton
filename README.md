@@ -33,7 +33,9 @@ Here are a few of my projects that I'm proud of:
 - [el-proyecte-grande-sprint-5-java-Doni002](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-5-java-Doni002) :star:
 - [roguelike-game-python-RolandMarton](https://github.com/CodecoolGlobal/roguelike-game-python-RolandMarton) :star:
 - [freestyle-javascript-game-javascript-Vargha90](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Vargha90) :star:
-- [flutter_quiz_app](https://github.com/RolandMarton/flutter_quiz_app) :star:
+- [flutter_meals_app](https://github.com/RolandMarton/flutter_meals_app) :star:
+- [flutter_expense_tracker](https://github.com/RolandMarton/flutter_expense_tracker) :star:
+- [flutter_quiz_app](https://github.com/RolandMarton/flutter_quiz_app)
 - [react-expense-tracker-app](https://github.com/RolandMarton/react-expense-tracker-app)
 - [react-food-order-app](https://github.com/RolandMarton/react-food-order-app)
 - [angular-weather-app](https://github.com/RolandMarton/angular-weather-app)
