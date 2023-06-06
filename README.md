@@ -35,6 +35,7 @@ Here are a few of my projects that I'm proud of:
 - [freestyle-javascript-game-javascript-Vargha90](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Vargha90) :star:
 - [flutter_meals_app](https://github.com/RolandMarton/flutter_meals_app) :star:
 - [flutter_expense_tracker](https://github.com/RolandMarton/flutter_expense_tracker) :star:
+- [flutter_shopping_list_app](https://github.com/RolandMarton/flutter_shopping_list_app)
 - [flutter_quiz_app](https://github.com/RolandMarton/flutter_quiz_app)
 - [react-expense-tracker-app](https://github.com/RolandMarton/react-expense-tracker-app)
 - [react-food-order-app](https://github.com/RolandMarton/react-food-order-app)
