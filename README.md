@@ -49,6 +49,7 @@ Mobile Apps:
 
 Utility Apps:
 - [python-filetree-printer](https://github.com/RolandMarton/python-filetree-printer)
+- [python-excel-blank-line-trimmer](https://github.com/RolandMarton/python-excel-blank-line-trimmer)
 <br>
 
 :star: for the extra cool projects
