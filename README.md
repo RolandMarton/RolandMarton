@@ -28,6 +28,7 @@
 Here are a few of my projects that I'm proud of:
 
 Web Apps:
+- [react-awards-winning-website](https://github.com/RolandMarton/react-awards-winning-website) :star:
 - [react-three.js-DALL.E-3D_Shirt_Customizer](https://github.com/RolandMarton/react-three.js-DALL.E-3D_Shirt_Customizer) :star:
 - [mern-Midjourney-DALL-E-Clone](https://github.com/RolandMarton/mern-Midjourney-DALL-E-Clone) :star:
 - [angular-starwars_battle_simulation](https://github.com/RolandMarton/angular-starwars_battle_simulation) :star:
