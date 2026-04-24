@@ -53,6 +53,9 @@ Utility Apps:
 - [python-filetree-printer](https://github.com/RolandMarton/python-filetree-printer)
 - [python-excel-blank-line-trimmer](https://github.com/RolandMarton/python-excel-blank-line-trimmer)
 - [python-format-apple-csv-to-bitwarden-csv](https://github.com/RolandMarton/python-format-apple-csv-to-bitwarden-csv)
+
+Others:
+- [javascript-create-react-2026-interview-questions](https://github.com/RolandMarton/javascript-create-react-2026-interview-questions)
 <br>
 
 :star: for the extra cool projects
