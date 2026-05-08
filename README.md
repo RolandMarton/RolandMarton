@@ -27,6 +27,9 @@
 
 Here are a few of my projects that I'm proud of:
 
+Deployed Apps:
+- [react-gyogyulj-mert-tudsz](https://gyogyuljmerttudsz.hu/) :star:
+
 Web Apps:
 - [react-gsap-mojito-cocktail](https://github.com/RolandMarton/react-gsap-mojito-cocktail) :star:
 - [react-awards-winning-website](https://github.com/RolandMarton/react-awards-winning-website) :star:
