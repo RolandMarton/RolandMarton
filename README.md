@@ -4,10 +4,6 @@
 
 <br>
 
-<br>
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=RolandMarton&show_icons=true&theme=tokyonight&count_private=true" alt="Anurag's GitHub stats" >
-
 ### 🚀 My Skills
 
 - Frontend: React, Angular, AngularJS, Vue, Sass, TailwindCss, Bootstrap, Three.js, Wordpress
@@ -73,7 +69,4 @@ These were one of my favourite team projects:
 ### Thanks for checking out my profile! 👨‍💻
 
 <h3 align="left">Feel free to connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/roland-marton-hu/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88943189/230103789-5738134e-fc46-49cc-8839-af769d6d1ce9.svg" alt="" height="30" width="40" /></a>
-</p>
-
+<a href="https://www.linkedin.com/in/roland-marton-hu/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88943189/230103789-5738134e-fc46-49cc-8839-af769d6d1ce9.svg" alt="" height="30" width="40" /></a>
