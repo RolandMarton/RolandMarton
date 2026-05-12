@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=RolandMarton&theme=tokyonight-duo" alt="Anurag's GitHub stats" >
+
+<br>
+
 ### 🚀 My Skills
 
 - Frontend: React, Angular, AngularJS, Vue, Sass, TailwindCss, Bootstrap, Three.js, Wordpress
