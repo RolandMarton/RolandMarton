@@ -20,8 +20,6 @@
 
 <br>
 
-<img align="right" width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=RolandMarton&theme=tokyonight-duo" alt="Anurag's GitHub stats" >
-
 ### 💻 Projects
 
 Here are a few of my projects that I'm proud of:
@@ -71,8 +69,6 @@ These were one of my favourite team projects:
 #
 
 <br>
-
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolandMarton&&hide_progress=true&hide=php&theme=tokyonight" alt="Top Langs">
 
 ### Thanks for checking out my profile! 👨‍💻
 
