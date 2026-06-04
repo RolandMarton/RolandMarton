@@ -50,6 +50,7 @@ Mobile Apps:
 - [flutter_quiz_app](https://github.com/RolandMarton/flutter_quiz_app)
 
 Utility Apps:
+- [javascript-design-automation-system](https://github.com/RolandMarton/javascript-design-automation-system) :star:
 - [python-filetree-printer](https://github.com/RolandMarton/python-filetree-printer)
 - [python-excel-blank-line-trimmer](https://github.com/RolandMarton/python-excel-blank-line-trimmer)
 - [python-format-apple-csv-to-bitwarden-csv](https://github.com/RolandMarton/python-format-apple-csv-to-bitwarden-csv)
