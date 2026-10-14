@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roland 👋</h1>
-<p align="center">Budapest-based developer. I build animated, 3D-heavy web experiences and the tooling that ships them.</p>
+<p align="center">Budapest-based software developer. I craft immersive 3D visuals, sleek user interfaces, and dynamic web and mobile applications.</p>
 
 <h3 align="center">Check out my portfolio by clicking on the image!</h3>
 
@@ -10,6 +10,16 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RolandMarton&theme=tokyonight-duo" alt="Roland's GitHub streak" />
 </p>
+
+<br>
+
+### 👨‍💻 About me
+
+I'm a software developer with experience in frontend development using TypeScript and JavaScript, and in frameworks like React, Angular, Vue, Node.js and Three.js. I came to software from neuroscience research, and I like turning ideas into efficient, scalable and user-friendly solutions.
+
+- **Now:** Software Developer at VOIS (Aug 2025 - present), building internal business applications and data-driven prototypes.
+- **Before:** solo developer of Livestocker Pro at LIVESTOCKER (May 2023 - Jun 2025), a Flutter livestock management app for iOS and Android with offline sync and BLE RFID scanning.
+- **Earlier:** Angular developer at Lannfield, Fullstack Developer student at Codecool, and biologist in two neuroscience research groups (MTA-KOKI, MTA-ELTE).
 
 <br>
 
@@ -33,11 +43,11 @@
   <img src="https://skillicons.dev/icons?i=linux,windows,aws,netlify,git,jest,cypress,figma,ps&perline=12" alt="Tools, testing and design skills" />
 </p>
 
-- Frontend: React, Next.js, Angular, AngularJS, Vue, Sass, TailwindCss, Bootstrap, Three.js, GSAP, Wordpress
-- Backend: Python, Java, Spring, Node.js, Express, PHP, Javascript, Typescript
-- Mobile: Flutter
+- Frontend: React, Next.js, Angular, AngularJS, Vue, Sass, Styled Components, TailwindCss, Bootstrap, Three.js, GSAP, Wordpress
+- Backend: Python, Java, Spring Boot, Node.js, Express, PHP, Javascript, Typescript
+- Mobile: Flutter, Dart, GetX, SQLite, BLE
 - Database: PostgreSQL, MySQL, MongoDB, Firebase DB
-- DevOps: Linux, Windows, AWS, Netlify, Jira, Confluence
+- DevOps: Linux, Windows, AWS, AWS Amplify, Netlify, Bitbucket, Jira, Confluence
 - Testing: Jasmine, Karma, Mockito, Unittest, Jest, Cypress
 - Design: Figma, Adobe Photoshop
 
@@ -48,19 +58,19 @@
 Here are a few of my projects that I'm proud of:
 
 Deployed Apps:
-- [react-gyogyulj-mert-tudsz](https://gyogyuljmerttudsz.hu/) :star:
-- [wordpress-meixner-iskola](https://uj.meixneriskola.hu/) :star:
-- [react-3d-portfolio](https://roland-3dportfolio.netlify.app/) :star:
+- [Gyógyulj, mert tudsz](https://gyogyuljmerttudsz.hu/) :star: a polished, content-rich wellness site in React
+- [Meixner Iskola](https://uj.meixneriskola.hu/) :star: a new website for a Budapest primary and art school, built as a native WordPress block theme
+- [3D Portfolio](https://roland-3dportfolio.netlify.app/) :star: my portfolio in React and Three.js
 
 Web Apps:
-- [react-gsap-mojito-cocktail](https://github.com/RolandMarton/react-gsap-mojito-cocktail) :star:
-- [react-awards-winning-website](https://github.com/RolandMarton/react-awards-winning-website) :star:
-- [react-three.js-DALL.E-3D_Shirt_Customizer](https://github.com/RolandMarton/react-three.js-DALL.E-3D_Shirt_Customizer) :star:
-- [mern-Midjourney-DALL-E-Clone](https://github.com/RolandMarton/mern-Midjourney-DALL-E-Clone) :star:
-- [angular-starwars_battle_simulation](https://github.com/RolandMarton/angular-starwars_battle_simulation) :star:
-- [el-proyecte-grande-sprint-5-java-Doni002](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-5-java-Doni002) :star:
-- [roguelike-game-python-RolandMarton](https://github.com/CodecoolGlobal/roguelike-game-python-RolandMarton) :star:
-- [freestyle-javascript-game-javascript-Vargha90](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Vargha90) :star:
+- [react-gsap-mojito-cocktail](https://github.com/RolandMarton/react-gsap-mojito-cocktail) :star: animated bar landing page with React and GSAP
+- [react-awards-winning-website](https://github.com/RolandMarton/react-awards-winning-website) :star: highly animated React site focused on premium motion
+- [react-three.js-DALL.E-3D_Shirt_Customizer](https://github.com/RolandMarton/react-three.js-DALL.E-3D_Shirt_Customizer) :star: customize a 3D shirt with colors, uploaded graphics and generated images
+- [mern-Midjourney-DALL-E-Clone](https://github.com/RolandMarton/mern-Midjourney-DALL-E-Clone) :star: MERN image-generation platform with prompt sharing and a community hub
+- [angular-starwars_battle_simulation](https://github.com/RolandMarton/angular-starwars_battle_simulation) :star: Angular Star Wars app with API-driven views
+- [el-proyecte-grande-sprint-5-java-Doni002](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-5-java-Doni002) :star: Aurora, a team-built car sharing platform
+- [roguelike-game-python-RolandMarton](https://github.com/CodecoolGlobal/roguelike-game-python-RolandMarton) :star: Python roguelike team game
+- [freestyle-javascript-game-javascript-Vargha90](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Vargha90) :star: JavaScript Snake team game
 - [react-expense-tracker-app](https://github.com/RolandMarton/react-expense-tracker-app)
 - [react-food-order-app](https://github.com/RolandMarton/react-food-order-app)
 - [angular-weather-app](https://github.com/RolandMarton/angular-weather-app)
