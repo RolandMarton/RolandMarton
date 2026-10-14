@@ -50,6 +50,7 @@ I'm a software developer with experience in frontend development using TypeScrip
 - DevOps: Linux, Windows, AWS, AWS Amplify, Netlify, Bitbucket, Jira, Confluence
 - Testing: Jasmine, Karma, Mockito, Unittest, Jest, Cypress
 - Design: Figma, Adobe Photoshop
+- AI tooling: generative pipelines with local image and video models, agent-driven development workflows
 
 <br>
 
