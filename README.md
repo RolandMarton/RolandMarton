@@ -23,21 +23,6 @@ I'm a software developer with experience in frontend development using TypeScrip
 
 <br>
 
-### 🔒 Private, but fun
-
-> [!NOTE]
-> These repositories are private, so there are no links. Here is what each one does.
-
-- **Design Automation System**: a local website builder pipeline. A prompt file goes in, a fully rendered, browser-checked site comes out.
-- **Occasion Site Factory**: a self-service gift-page product on Next.js. Pick a template and a package, customize it, and get a live shareable page.
-- **kit3d**: my library of code-built 3D objects on three.js, made for my own sites.
-- **Cortex**: a rotatable 3D brain that maps a knowledge base and lights up in real time as work happens.
-- **Creative pages**: the publishing pipeline behind my public Creative Pages gallery. It takes finished scroll-story pages, checks them and publishes them with their posters.
-- **Agent Guides**: my engineering handbook and automation for running many parallel development workstreams. Standards, quality gates, and review and release tooling in one place.
-- **React and WordPress boilerplates**: the starters every new site of mine begins from (React 19 + Vite, Sass or Styled Components, native WordPress block themes).
-
-<br>
-
 ### 🚀 My Skills
 
 <p>
@@ -103,6 +88,18 @@ Utility Apps:
 
 Others:
 - [javascript-create-react-2026-interview-questions](https://github.com/RolandMarton/javascript-create-react-2026-interview-questions)
+
+Private, but fun 🔒:
+> [!NOTE]
+> These repositories are private, so there are no links. Here is what each one does.
+
+- **Design Automation System**: a local website builder pipeline. A prompt file goes in, a fully rendered, browser-checked site comes out.
+- **Occasion Site Factory**: a self-service gift-page product on Next.js. Pick a template and a package, customize it, and get a live shareable page.
+- **kit3d**: my library of code-built 3D objects on three.js, made for my own sites.
+- **Cortex**: a rotatable 3D brain that maps a knowledge base and lights up in real time as work happens.
+- **Creative pages**: the publishing pipeline behind my public Creative Pages gallery. It takes finished scroll-story pages, checks them and publishes them with their posters.
+- **Agent Guides**: my engineering handbook and automation for running many parallel development workstreams. Standards, quality gates, and review and release tooling in one place.
+- **React and WordPress boilerplates**: the starters every new site of mine begins from (React 19 + Vite, Sass or Styled Components, native WordPress block themes).
 <br>
 
 :star: for the extra cool projects
