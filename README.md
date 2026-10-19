@@ -29,6 +29,7 @@ I'm a software developer with experience in frontend development using TypeScrip
 - **Occasion Site Factory**: a self-service gift-page product on Next.js. Pick a template and a package, customize it, and get a live shareable page.
 - **kit3d**: my library of code-built 3D objects on three.js, made for my own sites.
 - **Cortex**: a rotatable 3D brain that maps a knowledge base and lights up in real time as work happens.
+- **Creative pages**: a private collection of scroll-story websites, made with the Design Automation System and kit3d.
 - **React and WordPress boilerplates**: the starters every new site of mine begins from (React 19 + Vite, Sass or Styled Components, native WordPress block themes).
 
 <br>
