@@ -49,9 +49,9 @@ I'm a software developer with experience in frontend development using TypeScrip
 Here are a few of my projects that I'm proud of:
 
 Deployed Apps:
-- [3D Portfolio](https://roland-3dportfolio.netlify.app/) :star: my portfolio in React and Three.js `2023 · updated 2026`
-- [Gyógyulj, mert tudsz](https://gyogyuljmerttudsz.hu/) :star: a content-rich website for a Bowen therapy and naturopathy practice, in React `2026`
 - [Meixner Iskola](https://uj.meixneriskola.hu/) :star: a new website for a Budapest primary and art school, built as a native WordPress block theme `2026`
+- [Gyógyulj, mert tudsz](https://gyogyuljmerttudsz.hu/) :star: a content-rich website for a Bowen therapy and naturopathy practice, in React `2026`
+- [3D Portfolio](https://roland-3dportfolio.netlify.app/) :star: my portfolio in React and Three.js `2023 · updated 2026`
 
 <!-- creative-pages:start -->
 Creative Pages ([gallery](https://creative-pages.roland111187.workers.dev/)):
@@ -60,31 +60,31 @@ Creative Pages ([gallery](https://creative-pages.roland111187.workers.dev/)):
 <!-- creative-pages:end -->
 
 Web Apps:
-- [roguelike-game-python-RolandMarton](https://github.com/CodecoolGlobal/roguelike-game-python-RolandMarton) :star: Python roguelike team game `2021`
-- [freestyle-javascript-game-javascript-Vargha90](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Vargha90) :star: JavaScript Snake team game `2022`
-- [el-proyecte-grande-sprint-5-java-Doni002](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-5-java-Doni002) :star: Aurora, a team-built car sharing platform `2022`
-- [angular-weather-app](https://github.com/RolandMarton/angular-weather-app) `2022 · updated 2023`
-- [react-expense-tracker-app](https://github.com/RolandMarton/react-expense-tracker-app) `2022`
-- [vue-monster-slayer](https://github.com/RolandMarton/vue-monster-slayer) `2022`
-- [angular-starwars_battle_simulation](https://github.com/RolandMarton/angular-starwars_battle_simulation) :star: Angular Star Wars app with API-driven views `2023`
-- [react-food-order-app](https://github.com/RolandMarton/react-food-order-app) `2023`
-- [react-three.js-DALL.E-3D_Shirt_Customizer](https://github.com/RolandMarton/react-three.js-DALL.E-3D_Shirt_Customizer) :star: customize a 3D shirt with colors, uploaded graphics and generated images `2023`
-- [mern-Midjourney-DALL-E-Clone](https://github.com/RolandMarton/mern-Midjourney-DALL-E-Clone) :star: MERN image-generation platform with prompt sharing and a community hub `2023`
-- [react-awards-winning-website](https://github.com/RolandMarton/react-awards-winning-website) :star: highly animated React site focused on premium motion `2025`
 - [react-gsap-mojito-cocktail](https://github.com/RolandMarton/react-gsap-mojito-cocktail) :star: animated bar landing page with React and GSAP `2025`
+- [react-awards-winning-website](https://github.com/RolandMarton/react-awards-winning-website) :star: highly animated React site focused on premium motion `2025`
+- [mern-Midjourney-DALL-E-Clone](https://github.com/RolandMarton/mern-Midjourney-DALL-E-Clone) :star: MERN image-generation platform with prompt sharing and a community hub `2023`
+- [react-three.js-DALL.E-3D_Shirt_Customizer](https://github.com/RolandMarton/react-three.js-DALL.E-3D_Shirt_Customizer) :star: customize a 3D shirt with colors, uploaded graphics and generated images `2023`
+- [react-food-order-app](https://github.com/RolandMarton/react-food-order-app) `2023`
+- [angular-starwars_battle_simulation](https://github.com/RolandMarton/angular-starwars_battle_simulation) :star: Angular Star Wars app with API-driven views `2023`
+- [vue-monster-slayer](https://github.com/RolandMarton/vue-monster-slayer) `2022`
+- [react-expense-tracker-app](https://github.com/RolandMarton/react-expense-tracker-app) `2022`
+- [angular-weather-app](https://github.com/RolandMarton/angular-weather-app) `2022 · updated 2023`
+- [el-proyecte-grande-sprint-5-java-Doni002](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-5-java-Doni002) :star: Aurora, a team-built car sharing platform `2022`
+- [freestyle-javascript-game-javascript-Vargha90](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Vargha90) :star: JavaScript Snake team game `2022`
+- [roguelike-game-python-RolandMarton](https://github.com/CodecoolGlobal/roguelike-game-python-RolandMarton) :star: Python roguelike team game `2021`
 
 Mobile Apps:
-- [flutter_quiz_app](https://github.com/RolandMarton/flutter_quiz_app) `2023`
-- [flutter_expense_tracker](https://github.com/RolandMarton/flutter_expense_tracker) :star: `2023`
-- [flutter_meals_app](https://github.com/RolandMarton/flutter_meals_app) :star: `2023`
-- [flutter_shopping_list_app](https://github.com/RolandMarton/flutter_shopping_list_app) `2023`
-- [flutter_favorite_places](https://github.com/RolandMarton/flutter_favorite_places) :star: `2023`
 - [flutter_chat_app](https://github.com/RolandMarton/flutter_chat_app) :star: `2023`
+- [flutter_favorite_places](https://github.com/RolandMarton/flutter_favorite_places) :star: `2023`
+- [flutter_shopping_list_app](https://github.com/RolandMarton/flutter_shopping_list_app) `2023`
+- [flutter_meals_app](https://github.com/RolandMarton/flutter_meals_app) :star: `2023`
+- [flutter_expense_tracker](https://github.com/RolandMarton/flutter_expense_tracker) :star: `2023`
+- [flutter_quiz_app](https://github.com/RolandMarton/flutter_quiz_app) `2023`
 
 Utility Apps:
-- [python-filetree-printer](https://github.com/RolandMarton/python-filetree-printer) `2023 · updated 2026`
-- [python-excel-blank-line-trimmer](https://github.com/RolandMarton/python-excel-blank-line-trimmer) `2025`
 - [python-format-apple-csv-to-bitwarden-csv](https://github.com/RolandMarton/python-format-apple-csv-to-bitwarden-csv) `2026`
+- [python-excel-blank-line-trimmer](https://github.com/RolandMarton/python-excel-blank-line-trimmer) `2025`
+- [python-filetree-printer](https://github.com/RolandMarton/python-filetree-printer) `2023 · updated 2026`
 
 Others:
 - [javascript-create-react-2026-interview-questions](https://github.com/RolandMarton/javascript-create-react-2026-interview-questions) `2026`
@@ -93,13 +93,13 @@ Private, but fun 🔒:
 > [!NOTE]
 > These repositories are private, so there are no links. Here is what each one does.
 
-- **React and WordPress boilerplates**: the starters every new site of mine begins from (React 19 + Vite, Sass or Styled Components, native WordPress block themes). `2026`
-- **Agent Guides**: my engineering handbook and automation for running many parallel development workstreams. Standards, quality gates, and review and release tooling in one place. `2026`
-- **Design Automation System**: a local website builder pipeline. A prompt file goes in, a fully rendered, browser-checked site comes out. `2026`
-- **Occasion Site Factory**: a self-service gift-page product on Next.js. Pick a template and a package, customize it, and get a live shareable page. `2026`
-- **Cortex**: a rotatable 3D brain that maps a knowledge base and lights up in real time as work happens. `2026`
-- **kit3d**: my library of code-built 3D objects on three.js, made for my own sites. `2026`
 - **Creative pages**: the publishing pipeline behind my public Creative Pages gallery. It takes finished scroll-story pages, checks them and publishes them with their posters. `2026`
+- **kit3d**: my library of code-built 3D objects on three.js, made for my own sites. `2026`
+- **Cortex**: a rotatable 3D brain that maps a knowledge base and lights up in real time as work happens. `2026`
+- **Occasion Site Factory**: a self-service gift-page product on Next.js. Pick a template and a package, customize it, and get a live shareable page. `2026`
+- **Design Automation System**: a local website builder pipeline. A prompt file goes in, a fully rendered, browser-checked site comes out. `2026`
+- **Agent Guides**: my engineering handbook and automation for running many parallel development workstreams. Standards, quality gates, and review and release tooling in one place. `2026`
+- **React and WordPress boilerplates**: the starters every new site of mine begins from (React 19 + Vite, Sass or Styled Components, native WordPress block themes). `2026`
 <br>
 
 :star: for the extra cool projects
