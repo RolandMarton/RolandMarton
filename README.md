@@ -49,7 +49,7 @@ I'm a software developer with experience in frontend development using TypeScrip
 Here are a few of my projects that I'm proud of:
 
 Deployed Apps:
-- [Gyógyulj, mert tudsz](https://gyogyuljmerttudsz.hu/) :star: a polished, content-rich wellness site in React
+- [Gyógyulj, mert tudsz](https://gyogyuljmerttudsz.hu/) :star: a content-rich website for a Bowen therapy and naturopathy practice, in React
 - [Meixner Iskola](https://uj.meixneriskola.hu/) :star: a new website for a Budapest primary and art school, built as a native WordPress block theme
 - [3D Portfolio](https://roland-3dportfolio.netlify.app/) :star: my portfolio in React and Three.js
 
