@@ -17,7 +17,7 @@
 
 I'm a software developer with experience in frontend development using TypeScript and JavaScript, and in frameworks like React, Angular, Vue, Node.js and Three.js. I came to software from neuroscience research, and I like turning ideas into efficient, scalable and user-friendly solutions.
 
-- **Now:** Software Developer at VOIS (Aug 2025 - present), building internal business applications and data-driven prototypes.
+- **Now:** Software Developer at VOIS (Aug 2025 - present), building internal business applications and data-driven prototypes. 🏆 **Vodafone Stars award** (Sep 2026) for exceptional work on the DealReg app.
 - **Before:** solo developer of Livestocker Pro at LIVESTOCKER (May 2023 - Jun 2025), a Flutter livestock management app for iOS and Android with offline sync and BLE RFID scanning.
 - **Earlier:** Angular developer at Lannfield, Fullstack Developer student at Codecool, and biologist in two neuroscience research groups (MTA-KOKI, MTA-ELTE).
 
