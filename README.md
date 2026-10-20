@@ -55,8 +55,8 @@ Deployed Apps:
 
 <!-- creative-pages:start -->
 Creative Pages ([gallery](https://creative-pages.roland111187.workers.dev/)):
-- [Low Tide, a listening room for whole records](https://creative-pages.roland111187.workers.dev/pages/wave-listening-room/) :star: Low Tide is a forty-seat listening room where whole records play, both sides, on one pair of speakers, on Thursdays and Saturdays (demo)
-- [Halfwatt: light planned for homes and streets](https://creative-pages.roland111187.workers.dev/pages/lamp-lighting-studio/) :star: Halfwatt is a small studio that plans the light of homes and streets, lamp by lamp, starting with a visit after dark (demo)
+- [Low Tide, a listening room for whole records](https://creative-pages.roland111187.workers.dev/pages/wave-listening-room/) :star: Low Tide is a forty-seat listening room where whole records play, both sides, on one pair of speakers, on Thursdays and Saturdays (demo) `2026`
+- [Halfwatt: light planned for homes and streets](https://creative-pages.roland111187.workers.dev/pages/lamp-lighting-studio/) :star: Halfwatt is a small studio that plans the light of homes and streets, lamp by lamp, starting with a visit after dark (demo) `2026`
 <!-- creative-pages:end -->
 
 Web Apps:
