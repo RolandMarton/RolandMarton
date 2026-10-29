@@ -55,6 +55,7 @@ Deployed Apps:
 
 <!-- creative-pages:start -->
 Creative Pages ([gallery](https://creative-pages.roland111187.workers.dev/)):
+- [Inside the Console: a scroll story in 3D](https://creative-pages.roland111187.workers.dev/pages/console-journey/) :star: A short scroll story: an invented game console is taken apart layer by layer until you fly over its processor (demo) `2026`
 - [Anna and Bence: a paper dove wedding invitation](https://creative-pages.roland111187.workers.dev/pages/paper-dove-wedding/) :star: An invented wedding invitation told as a short flight: a paper dove, a letter, long tables and a small chapel (demo) `2026`
 - [Low Tide, a listening room for whole records](https://creative-pages.roland111187.workers.dev/pages/wave-listening-room/) :star: Low Tide is a forty-seat listening room where whole records play, both sides, on one pair of speakers, on Thursdays and Saturdays (demo) `2026`
 - [Halfwatt: light planned for homes and streets](https://creative-pages.roland111187.workers.dev/pages/lamp-lighting-studio/) :star: Halfwatt is a small studio that plans the light of homes and streets, lamp by lamp, starting with a visit after dark (demo) `2026`
