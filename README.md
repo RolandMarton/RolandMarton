@@ -95,6 +95,7 @@ Private, but fun 🔒:
 > [!NOTE]
 > These repositories are private, so there are no links. Here is what each one does.
 
+- **blender-kit**: my shared Blender library for cinematic scenes: render profiles, lighting rigs and a resumable film loop. `2026`
 - **Creative pages**: the publishing pipeline behind my public Creative Pages gallery. It takes finished scroll-story pages, checks them and publishes them with their posters. `2026`
 - **kit3d**: my library of code-built 3D objects on three.js, made for my own sites. `2026`
 - **Cortex**: a rotatable 3D brain that maps a knowledge base and lights up in real time as work happens. `2026`
